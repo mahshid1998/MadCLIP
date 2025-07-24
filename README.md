@@ -24,11 +24,9 @@ pip install -r requirements.txt
 **ℹ️ Note**: This project uses Python `3.9.23`. Also, we used a Single NVIDIA GTX 4090 for the experiments.
 
 ### Pretrained model
-- CLIP: https://openaipublic.azureedge.net/clip/models/3035c92b350959924f9f00213499208652fc7ea050643e8b385c2dac08641f02/ViT-L-14-336px.pt 
-    Download and put it under `CLIP/ckpt` folder
+- CLIP: Download [CLIP ckpt](https://openaipublic.azureedge.net/clip/models/3035c92b350959924f9f00213499208652fc7ea050643e8b385c2dac08641f02/ViT-L-14-336px.pt) and put it under `CLIP/ckpt` folder
 
-- MadCLIP: ????????????????????????? 
-  Download and put it under `ckpt` folder. The checkpoints are for 16 samples.
+- MadCLIP: Download [MadCLIP ckpt](https://univr-my.sharepoint.com/:u:/g/personal/mahshid_shiri_univr_it/EW83zI3pwGhAs0TpQxq7_-YBG4n9M0JV0pvgp1BMrWYY3A) and put it under `ckpt` folder. The checkpoints are for 16 samples.
 
 
 ### Get the Datasets
