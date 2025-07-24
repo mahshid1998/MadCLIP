@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+data/*
+CLIP/ckpt/*
+ckpt/*
+wandb/
